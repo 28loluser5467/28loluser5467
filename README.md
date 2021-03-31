@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @28loluser5467
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Python/Perl
+- 💞️ I’m looking to collaborate on ddos script
